@@ -47,8 +47,7 @@ Merci de soumettre une proposition à la fois, vous avez jusqu'au mois d'octobre
 	* Contribution externe	[Entreprise] Titre de l'épisode
 	* Contribution MVP	 [MVP] Titre de l'épisode
 	* Contribution RD	 [RD] Titre de l'épisode
-	* Contribution Microsoft	 [Microsoft] Titre de l'épisode
-	* Contribution Microsoft Service	 [Service] Titre de l'épisode
+	* Contribution Microsoft / Service	 [Microsoft] Titre de l'épisode
 
 	Un titre explicite, qu'est-ce que c'est ?
 	*  Exemple de titre accepté : Comment Microsoft Graph peut changer les applications LOB
