@@ -1,4 +1,4 @@
-## Règles de contribution Techdays
+## Règles de contribution sur la platefome online des Techdays 
 
 ### Les Techdays s'apprêtent à fêter leurs 10 ans et nous avons décidé de leur donner un nouvel élan. Au programme : un nouveau concept, de nouveaux formats et d’ores et déjà le choix de nouvelles dates pour le rendez-vous de référence au Palais des Congrès qui se déroulera sur deux jours, les 4 et 5 octobre prochains.
 
