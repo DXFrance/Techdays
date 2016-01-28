@@ -30,7 +30,7 @@ L'équipe Techdays sera très exigeante sur la qualité des soumissions. Une foi
 Merci de soumettre une proposition à la fois, vous avez jusqu'au mois d'octobre :)
 
 * **Etape 1** : choisir la chaine à laquelle vous souhaitez contribuer
-    	* Business Processes
+	* Business Processes
 	* Plateforme Cloud
 	* Data et IoT
 	* Innovation
