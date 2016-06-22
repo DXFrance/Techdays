@@ -7,7 +7,7 @@ Son objectif ? Permettre de s’informer, de se former et d’échanger sur l’
 
 ## Nous avons besoin de vous !
 Vous avez une proposition de vidéo originale ? Vous avez construit une démo inédite ? Vous avez un retour d'expérience concret à partager ?
-Venez contribuer à la nouvelle plateforme online des Techdays en soumettant vos propositions sur notre forum public : [https://techdays.uservoice.com/](https://techdays.uservoice.com/)
+Venez contribuer à la nouvelle plateforme online des Techdays en soumettant vos propositions sur notre forum public : [https://msexperiences.uservoice.com/](https://msexperiences.uservoice.com/)
 
 Les règles de contribution sont simples : vous soumettez votre proposition, l'équipe Techdays rentre en contact avec vous via le forum pour valider, amender ou refuser votre proposition.
 Les vidéos qui seront publiées sur cette plateforme seront d'un nouveau format. Nous serons particulièrement attentifs à la qualité, à l'impact et à la pertinence de vos propositions.
